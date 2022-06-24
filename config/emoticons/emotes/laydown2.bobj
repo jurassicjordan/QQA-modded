@@ -1,0 +1,38 @@
+# Blender v2.82 (sub 7) BOBJ keyframes: 'emoticons_rig LAYDOWN2.blend'
+# Animation data
+an emote_laydown2
+ao anchor
+ao body
+ag location 1
+kf 0 -0.625327 BEZIER -0.666667 -0.625327 0.666667 -0.625327
+ag rotation 0
+kf 0 1.570796 BEZIER -0.666667 1.570796 0.666667 1.570796
+ao low_body
+ao left_arm
+ag rotation 0
+kf 0 -0.140986 BEZIER -0.666667 -0.140986 0.666667 -0.140986
+ag rotation 1
+kf 0 0.000000 BEZIER -0.666667 0.000000 0.666667 0.000000
+ag rotation 2
+kf 0 0.000000 BEZIER -0.666667 0.000000 0.666667 0.000000
+ao low_left_arm
+ag rotation 0
+kf 0 0.086975 BEZIER -0.666667 0.086975 0.666667 0.086975
+ao low_left_arm.end
+ao low_left_arm.item
+ao right_arm
+ag rotation 0
+kf 0 -0.140986 BEZIER -0.666667 -0.140986 0.666667 -0.140986
+ag rotation 1
+kf 0 0.000000 BEZIER -0.666667 0.000000 0.666667 0.000000
+ag rotation 2
+kf 0 0.000000 BEZIER -0.666667 0.000000 0.666667 0.000000
+ao low_right_arm
+ag rotation 0
+kf 0 0.086975 BEZIER -0.666667 0.086975 0.666667 0.086975
+ao low_right_arm.end
+ao low_right_arm.item
+ao right_leg
+ao low_leg_right
+ao left_leg
+ao low_left_leg
